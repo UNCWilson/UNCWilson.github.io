@@ -1,0 +1,59 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #FAE0B5;
+}
+
+header {
+    color: black;
+    background-color: #FAE0B5;
+    font-size: 30px;
+    text-align: center;
+    display: block;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+nav {
+    font-size: 25px;
+    text-align: center;
+    border-radius: 30px;
+    display: block;
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a:link {
+    color: white;
+    background-color: black;
+}
+
+a:visited {
+    color: white;
+    background-color: black;
+}
+
+a:hover {
+    color: white;
+    background-color: black;
+}
+
+p {
+    font-family: cursive, 'Courier New', Courier, monospace;
+    font-size: 15px;
+}
+
+section {
+    display: block;
+    float: left;
+}
+
+aside {
+    display: block;
+    float: right;
+}
+
+footer {
+    display: block;
+    clear: both;
+    text-align: center
+}
