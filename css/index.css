@@ -1,0 +1,31 @@
+body {
+    background: url(../img/fondo2.jpg);
+}
+
+.navbar {
+    margin-bottom: 18%;
+}
+
+.navbar-toggler {
+    z-index: 3000;
+}
+
+.carousel {
+    margin-bottom: 3%;
+}
+
+header {
+    border-bottom: solid 10px black;
+}
+
+.card-body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+section {
+    border-bottom: solid 3px black;
+}
+
+.row {
+    font-family: 'Montserrat', sans-serif;
+}
